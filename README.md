@@ -1,5 +1,4 @@
 # hello-world
-Getting started
 
 The development of conciusness, arising from biological precursors.
 The impact of mindfulness and meditation on cognition.
